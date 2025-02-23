@@ -1,4 +1,7 @@
-<iframe src="https://duonghainam1.github.io/duonghainam1/" width="100%" height="500px"></iframe>
+<a href="#" target="_blank">
+  <img src="./svg/hainam.svg" width="1200" alt="trungquandev-official" />
+</a>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
