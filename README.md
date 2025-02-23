@@ -1,6 +1,4 @@
-<a href="#" target="_blank">
-  <img src="./index.svg" width="1200" alt="hainam" />
-</a>
+<iframe src="index.html"></iframe>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
